@@ -1,4 +1,6 @@
 ﻿# Present-Rush
+ Tech: Python 
+ Library: Pygame
 
 In "Present Rush," the game dynamics would work as follows:
 
